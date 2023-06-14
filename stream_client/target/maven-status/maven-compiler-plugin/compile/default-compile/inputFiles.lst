@@ -1,0 +1,8 @@
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\stream\qinyi\QinyiSendService.java
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\stream\qinyi\QinyiSource.java
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\partition\QinyiPartitionKeyExtractorStrategy.java
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\vo\QinyiMessage.java
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\StreamClientApplication.java
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\controller\MessageController.java
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\partition\QinyiPartitionSelectorStrategy.java
+D:\zl\e-commerce\stream_client\src\main\java\com\muke\stream\DefaultSendService.java

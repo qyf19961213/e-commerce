@@ -1,0 +1,3 @@
+com\muke\AdminApplication.class
+com\muke\conf\SecuritySecureConfig.class
+com\muke\notifier\QinyiNotifier.class

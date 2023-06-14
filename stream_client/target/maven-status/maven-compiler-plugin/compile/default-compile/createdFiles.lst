@@ -1,0 +1,8 @@
+com\muke\partition\QinyiPartitionKeyExtractorStrategy.class
+com\muke\partition\QinyiPartitionSelectorStrategy.class
+com\muke\stream\DefaultSendService.class
+com\muke\controller\MessageController.class
+com\muke\StreamClientApplication.class
+com\muke\stream\qinyi\QinyiSource.class
+com\muke\stream\qinyi\QinyiSendService.class
+com\muke\vo\QinyiMessage.class

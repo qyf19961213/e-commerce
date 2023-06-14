@@ -1,0 +1,5 @@
+com\muke\ConsumerApplication.class
+com\muke\stream\qinyi\QinyiSink.class
+com\muke\stream\qinyi\QinyiReceiveService.class
+com\muke\stream\DefaultReceiveService.class
+com\muke\vo\QinyiMessage.class

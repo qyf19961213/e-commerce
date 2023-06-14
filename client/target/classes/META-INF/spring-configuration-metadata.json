@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "project",
+      "type": "com.muke.config.ProjectConfig",
+      "sourceType": "com.muke.config.ProjectConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "project.author",
+      "type": "java.lang.String",
+      "sourceType": "com.muke.config.ProjectConfig"
+    },
+    {
+      "name": "project.name",
+      "type": "java.lang.String",
+      "sourceType": "com.muke.config.ProjectConfig"
+    },
+    {
+      "name": "project.org",
+      "type": "java.lang.String",
+      "sourceType": "com.muke.config.ProjectConfig"
+    },
+    {
+      "name": "project.version",
+      "type": "java.lang.String",
+      "sourceType": "com.muke.config.ProjectConfig"
+    }
+  ],
+  "hints": []
+}

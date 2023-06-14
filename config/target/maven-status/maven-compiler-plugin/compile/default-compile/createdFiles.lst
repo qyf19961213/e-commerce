@@ -1,0 +1,3 @@
+com\muke\advice\GlobalExceptionAdvice.class
+com\muke\advice\CommonResponseDataAdvice.class
+com\muke\annotation\IgnoreResponseAdvice.class

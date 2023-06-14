@@ -1,0 +1,13 @@
+com\muke\common\TableId.class
+com\muke\order\OrderInfo.class
+com\muke\common\TableId$Id.class
+com\muke\order\OrderInfo$OrderItem.class
+com\muke\account\AddressInfo$AddressItem.class
+com\muke\account\UserAddress.class
+com\muke\goods\GoodsInfo$GoodsProperty.class
+com\muke\account\BalanceInfo.class
+com\muke\goods\SimpleGoodsInfo.class
+com\muke\goods\GoodsInfo.class
+com\muke\order\LogisticsMessage.class
+com\muke\goods\DeductGoodsInventory.class
+com\muke\account\AddressInfo.class

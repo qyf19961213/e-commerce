@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/authority-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce-service/e-commerce-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce-service/e-commerce-good-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce-service/e-commerce-logistics-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce-service/e-commerce-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce-service/e-commerce-service-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/e-commerce-service/e-commerce-service-sdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream_client" charset="UTF-8" />
+  </component>
+</project>

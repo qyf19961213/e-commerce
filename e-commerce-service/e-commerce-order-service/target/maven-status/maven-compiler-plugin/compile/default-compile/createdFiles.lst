@@ -1,0 +1,17 @@
+com\muke\entity\EcommerceOrder.class
+com\muke\feign\NotSecuredGoodsClient.class
+com\muke\OrderApplication.class
+com\muke\vo\PageSimpleOrderDetail$SingleOrderGoodsItem.class
+com\muke\controller\OrderController.class
+com\muke\feign\AddressClient.class
+com\muke\feign\FeignConfig.class
+com\muke\feign\NotSecuredBalanceClient.class
+com\muke\service\IOrderService.class
+com\muke\feign\hystrix\AddressClientHystrix.class
+com\muke\vo\PageSimpleOrderDetail$SingleOrderItem.class
+com\muke\feign\SecuredGoodsClient.class
+com\muke\source\LogisticsSource.class
+com\muke\dao\EcommerceOrderDao.class
+com\muke\feign\hystrix\GoodsClientHystrix.class
+com\muke\service\impl\OrderServiceImpl.class
+com\muke\vo\PageSimpleOrderDetail.class

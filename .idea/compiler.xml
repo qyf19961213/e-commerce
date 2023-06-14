@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config" />
+        <module name="client" />
+        <module name="admin" />
+        <module name="e-commerce-service-config" />
+        <module name="gateway" />
+        <module name="stream_client" />
+        <module name="e-commerce-service-sdk" />
+        <module name="e-commerce-logistics-service" />
+        <module name="e-commerce-account" />
+        <module name="e-commerce-order-service" />
+        <module name="e-commerce-good-service" />
+        <module name="consumer" />
+        <module name="authority-center" />
+        <module name="common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nacos-client" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin" options="-parameters" />
+      <module name="authority-center" options="-parameters" />
+      <module name="client" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="config" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="e-commerce-account" options="-parameters" />
+      <module name="e-commerce-good-service" options="-parameters" />
+      <module name="e-commerce-logistics-service" options="-parameters" />
+      <module name="e-commerce-order-service" options="-parameters" />
+      <module name="e-commerce-service" options="-parameters" />
+      <module name="e-commerce-service-config" options="-parameters" />
+      <module name="e-commerce-service-sdk" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="nacos-client" options="-parameters" />
+      <module name="stream_client" options="-parameters" />
+    </option>
+  </component>
+</project>

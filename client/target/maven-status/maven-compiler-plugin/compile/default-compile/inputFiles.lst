@@ -1,0 +1,16 @@
+D:\zl\e-commerce\client\src\main\java\com\muke\service\NacosClientService.java
+D:\zl\e-commerce\client\src\main\java\com\muke\controller\SleuthTraceInfoController.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\hystrix\AuthorityFeignClientFallback.java
+D:\zl\e-commerce\client\src\main\java\com\muke\NacosClientApplication.java
+D:\zl\e-commerce\client\src\main\java\com\muke\config\ProjectConfig.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\SleuthTraceInfoService.java
+D:\zl\e-commerce\client\src\main\java\com\muke\controller\CommunicationController.java
+D:\zl\e-commerce\client\src\main\java\com\muke\controller\NacosClientController.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\AuthorityFeignClient.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\hystrix\AuthorityFeignClientFallbackFactory.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\RibbonConfig.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\UseFeignApi.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\FeignConfig.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\UseRibbonService.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\FeignOkHttpConfig.java
+D:\zl\e-commerce\client\src\main\java\com\muke\service\communication\UseRestTemplateService.java

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="921b9032-93b3-45fa-bb77-25fcc0654ec5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NwSj6OCVkZt6E4we78rADSEKt4" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.muke" />
+      <recent name="com.muke.vo" />
+      <recent name="com.muke.stream.qinyi" />
+      <recent name="com.muke.stream" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zl\e-commerce\e-commerce-service\e-commerce-logistics-service\src\main\java\com\muke" />
+      <recent name="D:\zl\e-commerce\e-commerce-service\e-commerce-logistics-service\src\main\resources" />
+      <recent name="D:\zl\e-commerce\e-commerce-service\e-commerce-good-service\src\main\resources" />
+      <recent name="D:\zl\e-commerce\e-commerce-service\e-commerce-account\src\main\resources" />
+      <recent name="D:\zl\e-commerce\e-commerce-service\e-commerce-order-service\src\main\java\com\muke" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LogisticsApplication">
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="e-commerce-account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthorityCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="authority-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.AuthorityCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.ConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="e-commerce-good-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.GoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogisticsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="e-commerce-logistics-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.LogisticsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="e-commerce-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="stream_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muke.StreamClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.AccountApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.GoodsApplication" />
+      <item itemvalue="Spring Boot.StreamClientApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.AuthorityCenterApplication" />
+      <item itemvalue="Spring Boot.LogisticsApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LogisticsApplication" />
+        <item itemvalue="Spring Boot.GoodsApplication" />
+        <item itemvalue="Spring Boot.AuthorityCenterApplication" />
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.StreamClientApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="921b9032-93b3-45fa-bb77-25fcc0654ec5" name="Default Changelist" comment="" />
+      <created>1680573783331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680573783331</updated>
+      <workItem from="1680573786162" duration="1251000" />
+      <workItem from="1680575296779" duration="8665000" />
+      <workItem from="1681175304051" duration="6881000" />
+      <workItem from="1681182255928" duration="7621000" />
+      <workItem from="1681196730551" duration="6565000" />
+      <workItem from="1681261965655" duration="17443000" />
+      <workItem from="1681346997629" duration="28372000" />
+      <workItem from="1681433098441" duration="22361000" />
+      <workItem from="1681695329349" duration="17144000" />
+      <workItem from="1681779178462" duration="16647000" />
+      <workItem from="1681865226423" duration="2839000" />
+      <workItem from="1681870567871" duration="3476000" />
+      <workItem from="1682039476660" duration="4947000" />
+      <workItem from="1682214549583" duration="6527000" />
+      <workItem from="1682297749417" duration="26920000" />
+      <workItem from="1682382692441" duration="19594000" />
+      <workItem from="1682470284562" duration="21251000" />
+      <workItem from="1682572456268" duration="1809000" />
+      <workItem from="1683161078969" duration="2724000" />
+      <workItem from="1683246993512" duration="1789000" />
+      <workItem from="1683333133199" duration="595000" />
+      <workItem from="1683419041081" duration="3162000" />
+      <workItem from="1683592489887" duration="2539000" />
+      <workItem from="1683678975566" duration="3686000" />
+      <workItem from="1683765357682" duration="1994000" />
+      <workItem from="1684110723831" duration="2641000" />
+      <workItem from="1684456432772" duration="1474000" />
+      <workItem from="1684461633232" duration="1155000" />
+      <workItem from="1684893360878" duration="1848000" />
+      <workItem from="1686637993599" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/e-commerce-service/e-commerce-account/src/main/java/com/muke/service/impl/BalanceServiceImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
